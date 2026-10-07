@@ -1,16 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mykhailo%20Hryhoriev&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20Observability&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mykhailo%20Hryhoriev&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" />
 </div>
 
 ## 👋 About Me
 
-I'm a **Junior Software Engineer** based in Prague with hands-on experience in **ETL/Lakehouse workflows**, **event streaming**, and **observability engineering**.
+Software Engineer based in Prague — I build data pipelines, event streaming systems, and observability tooling.
+Previously @ **Tricentis**. Open to backend and data engineering roles.
 
-- 🏢 Formerly @ **Tricentis** — built a Keycloak SPI audit plugin, OpenTelemetry telemetry modules, and IaC-codified Datadog dashboards with Terraform
-- 🎓 **B.S. in Informatics** @ Czech University of Life Sciences Prague
-- 🧠 Bachelor's thesis: *"AI in Computer Games"* — Pathfinding, Procedural Content Generation & Adaptive AI
-- 📍 Prague, Czech Republic
-- 💬 Ask me about **data pipelines, event streaming (NATS), observability, or AWS**
+🌐 **Portfolio:** [mykhailo.dev](https://main.d26u5xlhja6shj.amplifyapp.com)
 
 ---
 
@@ -37,6 +34,7 @@ I'm a **Junior Software Engineer** based in Prague with hands-on experience in *
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Observability & Monitoring**
@@ -74,9 +72,9 @@ I'm a **Junior Software Engineer** based in Prague with hands-on experience in *
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mykhailohryhoriev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://main.d26u5xlhja6shj.amplifyapp.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-hryhoriev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mg2005.dk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimmer-23)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
