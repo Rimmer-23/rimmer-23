@@ -18,7 +18,7 @@ Previously @ **Tricentis**. Open to backend and data engineering roles.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -54,6 +54,14 @@ Previously @ **Tricentis**. Open to backend and data engineering roles.
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimmer-23/skylog)
 
 `Python` · `PostgreSQL` · `Docker` · `AWS EC2 & S3` · `Grafana` · `GitHub Actions`
+
+### 🧠 [text-to-sql-app](https://github.com/rimmer-23/text-to-sql-app) — Ask Your CSV Files in Plain English
+
+> Upload CSV files, ask questions in plain English, and get answers as a table. An LLM (Gemini) writes the SQL from the **schema only**, a **sqlglot-based guard** rejects anything but a single read-only query, and SQLite runs it on a read-only connection with row limits, timeouts and value-size caps. The generated SQL is always one click away for transparency.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimmer-23/text-to-sql-app)
+
+`Python` · `FastAPI` · `SQLite` · `sqlglot` · `Gemini` · `React` · `TypeScript` · `Vite`
 
 ---
 
